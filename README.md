@@ -7,8 +7,8 @@
 <p>
   <a href="mailto:ksuthar2016@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/kiransuthar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/ksuthar98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/ksuthar1998"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/ksuthar21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/ksuthar21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 </div>
@@ -76,14 +76,14 @@ I'm a passionate Software Engineer and Fullstack Developer with hands-on experie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ksp1998&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksp1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ksuthar21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksuthar21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 </div>
 
 <!-- <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ksp1998&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ksuthar21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div> -->
 
@@ -91,6 +91,6 @@ I'm a passionate Software Engineer and Fullstack Developer with hands-on experie
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ksp1998&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ksuthar21&color=blue&style=flat-square)
 
 </div>
