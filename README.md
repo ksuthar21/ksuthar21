@@ -76,16 +76,10 @@ I'm a passionate Software Engineer and Fullstack Developer with hands-on experie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ksuthar21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksuthar21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="./github-metrics.svg" alt="GitHub Stats" width="400"/>
+<img src="./github-metrics-languages.svg" alt="Top Languages" width="400"/>
 
 </div>
-
-<!-- <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ksuthar21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div> -->
 
 ---
 
